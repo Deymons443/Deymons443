@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Deymons443
 - 🌱 I’m currently learning C++ and Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 I can find me on Twitter: @amalangin
 
 <!---
